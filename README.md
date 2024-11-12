@@ -1,12 +1,19 @@
 # AdventureWorkPowerBIReport
 
-* In this Power BI Data Visualization Project, Extracted the data from raw csv files which contains data
-about Company’s Customers, Sales & Products and Cleaned and transformed data using Power BI’s Query Editor to prepare ETL processes to optimize
-reporting datasets. 
-* Created data models, tables within Power BI to support efficient, optimized data
-warehousing and reporting workflow.
-* Created Measures and Calculated columns using DAX &, also
-Implemented row-level security in Power BI workspaces to restrict access required resulting in faster
-processing time & developed Power BI reports and dashboards for effective decision making.
-* Designed visually appealing reports in Report View with 4 Different sections for different level of
-management’s use with useful information related to product, sales and KPI data.
+🔔 Objective:
+The primary goal of this project was to address key business challenges faced by Adventure Works, a global leader in manufacturing cycling equipment and accessories. The BI report was designed to effectively track KPIs including sales, revenue, profit, and returns, while also comparing regional performance, analyzing product-level trends, and identifying high-value customers.
+
+⭐ Steps Followed: ⭐
+
+⚡ STAGE 1: Connecting & Shaping Data
+In this initial phase, I utilized Power Query and various data connectors to extract, transform, and load the data. This involved several table transformation techniques such as grouping, aggregating, merging, and appending to ensure the data was well-prepared for analysis.
+
+⚡ STAGE 2: Creating a Relational Data Model
+Here, I developed a relational data model to establish connections between multiple tables, considering cardinality, filter-flow, and normalization to optimize data retrieval and analysis.
+
+⚡ STAGE 3: Adding Calculated Fields with DAX
+In this stage, I employed Data Analysis Expressions (DAX) to create calculated columns and measures. This allowed for complex calculations and queries, providing deeper insights into the data.
+
+⚡ STAGE 4: Visualizing Data with Reports
+The final stage involved translating the data into engaging and interactive reports, dashboards, and KPI cards. I applied best practices to ensure the visualizations were not only attractive but also user-friendly and informative.
+I am excited to share this project with the community and look forward to any feedback or discussions it may inspire! 🌟 Maven Analytics
